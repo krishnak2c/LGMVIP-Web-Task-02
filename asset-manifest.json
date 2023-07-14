@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/create-react-app/static/css/main.1d194530.css",
-    "main.js": "/create-react-app/static/js/main.80dd8d0b.js",
-    "static/js/787.556f3161.chunk.js": "/create-react-app/static/js/787.556f3161.chunk.js",
-    "index.html": "/create-react-app/index.html",
-    "main.1d194530.css.map": "/create-react-app/static/css/main.1d194530.css.map",
-    "main.80dd8d0b.js.map": "/create-react-app/static/js/main.80dd8d0b.js.map",
-    "787.556f3161.chunk.js.map": "/create-react-app/static/js/787.556f3161.chunk.js.map"
+    "main.css": "/LGMVIP-Web-Task-02/static/css/main.1d194530.css",
+    "main.js": "/LGMVIP-Web-Task-02/static/js/main.366ea27f.js",
+    "static/js/787.556f3161.chunk.js": "/LGMVIP-Web-Task-02/static/js/787.556f3161.chunk.js",
+    "index.html": "/LGMVIP-Web-Task-02/index.html",
+    "main.1d194530.css.map": "/LGMVIP-Web-Task-02/static/css/main.1d194530.css.map",
+    "main.366ea27f.js.map": "/LGMVIP-Web-Task-02/static/js/main.366ea27f.js.map",
+    "787.556f3161.chunk.js.map": "/LGMVIP-Web-Task-02/static/js/787.556f3161.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d194530.css",
-    "static/js/main.80dd8d0b.js"
+    "static/js/main.366ea27f.js"
   ]
 }
